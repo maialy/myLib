@@ -1,0 +1,22 @@
+{
+  "name": "myLib",
+  "version": "0.1.0",
+  "summary": "A short description of myLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/maialy/myLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "maialy": "chao.mai@renren-inc"
+  },
+  "source": {
+    "git": "https://github.com/maialy/myLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "myLib/Classes/**/*"
+}
